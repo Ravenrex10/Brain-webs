@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "8a34c536a8614e8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "adc764e78b98288f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2536751109db4f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universidad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22c9507fb15f9195",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dedb89c5a9132d13",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b4989d465c2930e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dbac890b5f37e38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fa77c01987c679c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "390537ca29c1ab28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45b350dfa78729be",
+    "type": "split",
+    "children": [
+      {
+        "id": "287851c8c6eec2b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c571d232fd02aa93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Universidad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce4b6238b0a2a7e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Universidad.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11cfdbb91a5fa901",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2dc55716dd074019",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Universidad.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "2536751109db4f28",
+  "lastOpenFiles": [
+    "Ingeniería Web.md",
+    "1..md",
+    "Universidad.md",
+    "Sw. sistemas empotrados y dispositivos móviles.md",
+    "Gestión de Proyectos.md",
+    "Tema 1 Introducción y Conceptos Básicos.md",
+    "horario/2023-12-01 Entrega Trabajo Métodos Formales.md",
+    "horario/2023-10-06 Selección de trabajos de métodos formales.md",
+    "horario/2023-12-18 Examen Final Gestión de Proyectos.md",
+    "horario/2023-11-13 Examen Gestión de Proyectos.md",
+    "horario/2023-10-02 Examen Gestión de Proyectos.md",
+    "Inteligencia Artificial Para Juegos.md",
+    "Tema 1.md",
+    "Sistema de Produccion.md",
+    "Sistema de Producción.md",
+    "horario"
+  ]
+}
