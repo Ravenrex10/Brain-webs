@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingeniería Web.md",
+                "file": "Tema 1.2 Aplicaciones Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingeniería Web.md",
+                "file": "Tema 1.2 Aplicaciones Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingeniería Web.md",
+                "file": "Tema 1.2 Aplicaciones Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingeniería Web.md"
+                "file": "Tema 1.2 Aplicaciones Web.md"
               }
             }
           }
@@ -157,12 +157,16 @@
   },
   "active": "2536751109db4f28",
   "lastOpenFiles": [
-    "Universidad.md",
-    "Inteligencia Artificial Para Juegos.md",
     "Ingeniería Web.md",
+    "Tema 1.2 Aplicaciones Web.md",
+    "Universidad.md",
+    "Tema 1 Fundamentos de la Ingeniería Web.md",
+    "Tema 1 Niveles de Gestion.md",
+    "Gestión de Proyectos.md",
+    "horario/2024-01-12 Examen final ingeniería web.md",
+    "Inteligencia Artificial Para Juegos.md",
     "1..md",
     "Sw. sistemas empotrados y dispositivos móviles.md",
-    "Gestión de Proyectos.md",
     "Tema 1 Introducción y Conceptos Básicos.md",
     "horario/2023-12-01 Entrega Trabajo Métodos Formales.md",
     "horario/2023-10-06 Selección de trabajos de métodos formales.md",
