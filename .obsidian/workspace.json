@@ -8,26 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2536751109db4f28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tema 1.2 Aplicaciones Web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "22c9507fb15f9195",
             "type": "leaf",
             "state": {
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "e4f9de2eae11b687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Universidad/Tema 2 Fundamentos de la especificación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 1.2 Aplicaciones Web.md",
+                "file": "Universidad/Tema 2 Fundamentos de la especificación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 1.2 Aplicaciones Web.md",
+                "file": "Universidad/Tema 2 Fundamentos de la especificación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 1.2 Aplicaciones Web.md"
+                "file": "Universidad/Tema 2 Fundamentos de la especificación.md"
               }
             }
           }
@@ -155,27 +156,36 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2536751109db4f28",
+  "active": "e4f9de2eae11b687",
   "lastOpenFiles": [
-    "Ingeniería Web.md",
-    "Tema 1.2 Aplicaciones Web.md",
-    "Universidad.md",
-    "Tema 1 Fundamentos de la Ingeniería Web.md",
-    "Tema 1 Niveles de Gestion.md",
-    "Gestión de Proyectos.md",
+    "Universidad/Tema 2 Búsqueda en árbol.md",
+    "Universidad/Tema 1.2 Aplicaciones Web.md",
+    "Universidad/Tema 2 Fundamentos de la especificación.md",
+    "Universidad/Universidad.md",
+    "Lógica ecuacional.md",
+    "Universidad/Métodos formales.md",
+    "Universidad/Ingeniería Web.md",
+    "Universidad/Inteligencia Artificial Para Juegos.md",
+    "ravenrex10.github.io.md",
+    "Universidad/Sw. sistemas empotrados y dispositivos móviles.md",
+    "google.com.md",
+    "Universidad/Proyectos.md",
+    "Untitled.canvas",
+    "Universidad",
+    "horario/2023-12-18 Examen Final Gestión de Proyectos.md",
+    "Tema 2 Búsqueda con Árbol.md",
+    "Universidad/Gestión de Proyectos.md",
+    "Universidad/Tema 1 Introducción y Conceptos Básicos.md",
+    "Universidad/Tema 1 Niveles de Gestion.md",
+    "Universidad/Tema 1 Fundamentos de la Ingeniería Web.md",
     "horario/2024-01-12 Examen final ingeniería web.md",
-    "Inteligencia Artificial Para Juegos.md",
     "1..md",
-    "Sw. sistemas empotrados y dispositivos móviles.md",
-    "Tema 1 Introducción y Conceptos Básicos.md",
     "horario/2023-12-01 Entrega Trabajo Métodos Formales.md",
     "horario/2023-10-06 Selección de trabajos de métodos formales.md",
-    "horario/2023-12-18 Examen Final Gestión de Proyectos.md",
     "horario/2023-11-13 Examen Gestión de Proyectos.md",
     "horario/2023-10-02 Examen Gestión de Proyectos.md",
     "Tema 1.md",
     "Sistema de Produccion.md",
-    "Sistema de Producción.md",
     "horario"
   ]
 }

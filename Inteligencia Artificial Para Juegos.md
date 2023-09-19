@@ -1,6 +1,0 @@
-
-
-
-___
-
-[[Sistema de Producción]]
