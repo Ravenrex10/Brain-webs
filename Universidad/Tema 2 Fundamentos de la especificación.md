@@ -1,6 +1,5 @@
 <u>Objetivo</u>: Repasar y entender qué es la lógica.
 
-# Lenguajes y Lógica
 ### Ventaja de los lenguajes declarativos
 - Basados en lógica computacionalmente interpretable.
 - Un programa declarativo basado en una lógica determinada es típicamente una teoría  lógica en dicha lógica.
@@ -35,13 +34,50 @@ Extensiones de la lógica
 	– … 
 -  Existe una lógica temporal, asociada a la RWL, que es estrictamente más potente que CTL/LTL: la temporal logic of rewriting (TLR)
 
-# Maude
+### Maude
 Una implementación de la lógica de reescritura muy eficiente
 - Sintaxis basada en ecuaciones y reglas de reescritura (estilo Haskell)
 - Semántica basada en la lógica de reescritura
 
-#### 3 tipos de módulos:
+3 tipos de módulos:
 - Módulos funcionales
 - Módulos de sistema
 - Módulos orientados a objetos
+
+### Teorías ecuacionales
+Las teorías ecuaciones en [[Lógica ecuacional]] se denominan teorías ecuacionales o especificaciones algebraicas. 
+- Definen operaciones confluentes y terminantes.
+- Se definen en módulos funcionales.
+- E se compone de ecuaciones y axiomas algebraicos (Ax), de forma que normalmente escribimos
+- Ax incluye los axiomas con los que el motor de reescritura es capaz de operar módulo, en el caso de Maude: *assoc, comm, id*
+- Representan la parte estática del sistema
+Una teoría ecuacional es un par ((sigma), E) donde:
+- Sigma es la signatura, que describe la sintaxis de la teoría, es decir, los tipos de datos y los símbolos de operación (o de función) sobre ellos que define, y
+- E es un conjunto de ecuaciones entre expresiones (denominados términos) en la sintaxis de sigma.
+
+
+#### Teorías de reescritura
+- Definen operaciones que pueden ser no concluyentes o no terminales
+- Se definen en módulos de sistema
+- Especifican la parte dinámica de los sistemas, es decir, las acciones que pueden producir transiciones o cambios.
+
+
+# Signaturas
+## Sin tipos
+Tienen un único tipo, y símbolos de operación sobre él. Las operaciones indican el número de parámetros que toma
+## De múltiples tipos
+Permiten tener múltiples tipos y símbolos de operación
+<u>Ejemplos:</u>
+ -Integer
+ -Bool
+ -List
+## De tipos ordenados
+Signaturas de múltiples tipos que permiten relaciones de inclusión entre tipos
+<u>Ejemplos:</u>
+	-Natural < Integer < Rational
+
+## De pertenencia
+Permiten cambiar el tipo que tienen los términos
+<u>Ejemplos:</u>
+	-1 2 3 4 5: SortedList
 

@@ -1,0 +1,4 @@
+- Describe la vista de la aplicación, según un modelo MVC
+- Indica los efectos de la interacción sobre el controlador
+- Relaciona los elementos de la interfaz con el modelo
+- Elementos: [[View Containers]], [[View Components]], [[Events]], Transitions, Parameter Bindings.
