@@ -9,6 +9,8 @@ IA: 3.0.6
 
 [[Gestión de Proyectos]]
 [[Sw. sistemas empotrados y dispositivos móviles]]
-[[Inteligencia Artificial Para Juegos]]
 [[Ingeniería Web]]
 [[Métodos formales]]
+
+___
+[[Inteligencia Artificial Para Juegos]]
