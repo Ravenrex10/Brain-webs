@@ -16,14 +16,14 @@
             }
           },
           {
-            "id": "3e47919e920a097b",
+            "id": "899fdbcaaa3b9edd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Universidad/Tema 2  Modelado y Arquitectura Web.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -157,11 +157,20 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3e47919e920a097b",
+  "active": "899fdbcaaa3b9edd",
   "lastOpenFiles": [
+    "Pasted image 20230922185753.png",
+    "Pasted image 20230922185656.png",
+    "Universidad/Tema 2 Fundamentos de la especificación.md",
+    "Universidad/Tema 2 Proyecto.md",
+    "Images/Pasted image 20230922185404.png",
+    "Images/Pasted image 20230922185416.png",
+    "Universidad/Tema 2  Modelado y Arquitectura Web.md",
+    "Images/Pasted image 20230922185344.png",
+    "Images/Pasted image 20230922185046.png",
+    "Images/Pasted image 20230922184929.png",
     "Universidad/Ingeniería Web.md",
     "Universidad/Universidad.md",
-    "Universidad/Tema 2 Proyecto.md",
     "Universidad/Gestión de Proyectos.md",
     "Universidad/Inteligencia Artificial Para Juegos.md",
     "horario/2023-10-20 Examen Ingeniería Web T1 y T2.md",
@@ -177,8 +186,6 @@
     "Universidad/View Containers.md",
     "Universidad/Events.md",
     "Universidad/Tema 1 Introducción y Conceptos Básicos.md",
-    "Universidad/Tema 2 Fundamentos de la especificación.md",
-    "Universidad/Tema 2  Modelado y Arquitectura Web.md",
     "Universidad/Tema 1.2 Aplicaciones Web.md",
     "Universidad/Tema 2 Búsqueda en árbol.md",
     "Universidad/Flujo de interacción.md",
@@ -188,7 +195,6 @@
     "Universidad/Lógica ecuacional.md",
     "ravenrex10.github.io.md",
     "google.com.md",
-    "Universidad/Proyectos.md",
     "Untitled.canvas",
     "Universidad",
     "horario"
