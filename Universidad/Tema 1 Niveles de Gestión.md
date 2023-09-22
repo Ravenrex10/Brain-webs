@@ -1,4 +1,4 @@
-1### Existen 3 grandes Gestiones
+### Existen 3 grandes Gestiones
 - Definir la Estrategia y trazar el Camino
 - Gestión de Portfolios, Programas y Proyectos
 - Gestionarte a ti mismo

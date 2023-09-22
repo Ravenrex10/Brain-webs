@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Tema 2 Arduino.md",
+                "file": "Universidad/Tema 2  Modelado y Arquitectura Web.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidad/Tema 2 Arduino.md",
+                "file": "Universidad/Tema 2  Modelado y Arquitectura Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universidad/Tema 2 Arduino.md",
+                "file": "Universidad/Tema 2  Modelado y Arquitectura Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidad/Tema 2 Arduino.md"
+                "file": "Universidad/Tema 2  Modelado y Arquitectura Web.md"
               }
             }
           }
@@ -159,9 +159,16 @@
   },
   "active": "3e47919e920a097b",
   "lastOpenFiles": [
-    "Universidad/Sw. sistemas empotrados y dispositivos móviles.md",
+    "Universidad/Ingeniería Web.md",
     "Universidad/Universidad.md",
+    "Universidad/Tema 2 Proyecto.md",
+    "Universidad/Gestión de Proyectos.md",
+    "Universidad/Inteligencia Artificial Para Juegos.md",
+    "horario/2023-10-20 Examen Ingeniería Web T1 y T2.md",
+    "Universidad/Tema 1 Niveles de Gestión.md",
     "Universidad/Tema 2 Arduino.md",
+    "Universidad/Sw. sistemas empotrados y dispositivos móviles.md",
+    "Universidad/Métodos formales.md",
     "horario/2023-09-22 Elegir Grupo Ingeniería Web.md",
     "Universidad/Ejercicios Arduino.md",
     "Images/Pasted image 20230921174337.png",
@@ -171,26 +178,19 @@
     "Universidad/Events.md",
     "Universidad/Tema 1 Introducción y Conceptos Básicos.md",
     "Universidad/Tema 2 Fundamentos de la especificación.md",
-    "Universidad/Tema 1 Niveles de Gestión.md",
-    "Universidad/Gestión de Proyectos.md",
-    "Universidad/Métodos formales.md",
     "Universidad/Tema 2  Modelado y Arquitectura Web.md",
     "Universidad/Tema 1.2 Aplicaciones Web.md",
     "Universidad/Tema 2 Búsqueda en árbol.md",
     "Universidad/Flujo de interacción.md",
-    "Universidad/Ingeniería Web.md",
     "Images/Pasted image 20230919202610.png",
     "Images",
     "Images/Pasted image 20230919202434.png",
     "Universidad/Lógica ecuacional.md",
-    "Universidad/Inteligencia Artificial Para Juegos.md",
     "ravenrex10.github.io.md",
     "google.com.md",
     "Universidad/Proyectos.md",
     "Untitled.canvas",
     "Universidad",
-    "horario/2023-12-18 Examen Final Gestión de Proyectos.md",
-    "Tema 2 Búsqueda con Árbol.md",
     "horario"
   ]
 }

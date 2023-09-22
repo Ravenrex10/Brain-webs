@@ -24,3 +24,15 @@ Representación explícita del front-end:
 ![[Pasted image 20230919202434.png]]
 ![[Pasted image 20230919202610.png]]
 # Arquitectura Web
+Describe los componentes software, las relaciones entre ellos y sus propiedades. Ignora la implementación interna de los componentes.
+
+### Patrones de Arquitectura
+- Esquemas de organización general de un sistema
+- Especifican una serie de subsistemas o componentes
+- (...)
+
+### Puntos de vista arquitectónicos
+##### Arquitectura física o niveles (tiers)
+- Elementos físicos (Hardware, software de terceros, otros elementos externos)
+##### Arquitectura lógica o capas (layers)
+- Componentes software

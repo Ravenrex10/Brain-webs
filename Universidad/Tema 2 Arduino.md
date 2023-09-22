@@ -63,3 +63,9 @@ Arduino tiene tres módulos times: *timer0, timer1, timer2*
 - Timer-1 no pudo usar funciones de servos
 - Timer-2 no puedo usar tone()
 
+### Cómo usarlos
+1. Deshabilitar interrupciones
+2. Limpiar el contenido del registro que guarda la cuenta
+3. Habilitar la interrupción por desbordamiento del Timer-2
+4. Configurar la frecuencia a la que el timer comenzará a contar.
+5. Habilitar interrupciones
