@@ -21,15 +21,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Tema 3 Objetivos de  un proyecto.md",
+                "file": "Universidad/Universidad.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "af706a9330a461e2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidad/Tema 3 Objetivos de  un proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universidad/Tema 3 Objetivos de  un proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Universidad/Tema 3 Objetivos de  un proyecto.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,13 +161,14 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d2b2e87757cbb815",
+  "active": "af706a9330a461e2",
   "lastOpenFiles": [
-    "Universidad/Tema 4 Servicios Web.md",
+    "3D Printing Ideas.md",
+    "Images/Pasted image 20230925155832.png",
     "Universidad/Tema 3 Objetivos de  un proyecto.md",
+    "Universidad/Tema 4 Servicios Web.md",
     "Universidad/Ingeniería Web.md",
     "Universidad/Universidad.md",
-    "Pasted image 20230925155832.png",
     "Universidad/Gestión de Proyectos.md",
     "Trabajo de Fin de Grado.md",
     "Universidad/Tema 2  Modelado y Arquitectura Web.md",
@@ -195,7 +200,6 @@
     "Universidad/Flujo de interacción.md",
     "Images/Pasted image 20230919202610.png",
     "Images",
-    "Universidad/Lógica ecuacional.md",
     "Untitled.canvas",
     "Universidad",
     "horario"
