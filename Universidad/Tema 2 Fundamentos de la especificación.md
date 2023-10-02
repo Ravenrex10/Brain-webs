@@ -81,3 +81,38 @@ Permiten cambiar el tipo que tienen los términos
 <u>Ejemplos:</u>
 	-1 2 3 4 5: SortedList
 
+<u>Ejercicios</u>:
+- Ejemplo de una signatura sin sentido
+sorts A, B, C, D:
+	op f: A -> B       NO SE SI ESTA BIEN
+- Ejemplo de una especificación que tenga sentido y que no sea pre-regular
+sorts A B C D
+subsorts A < BC < D
+	op a: -> A
+	op f: B -> B
+	op f: C -> C
+	
+- Buscar en el manual de MAUDE como funciona el AND (parece esto: n), decir qué significa _ : _ y qué significa _ :=_
+- Reescribir s0 + s(ss0 * s0), qué es el lr, r0, etc (no se, proceso de reescritura hasta que no se pueda reescribir más)
+
+TE(X)s' = Álgebra de términos de la signatura x en algo de s
+
+
+
+# Ejercicio
+- comprobar que sea terminante el BOOLEAN de las diapositivas. Si es creciente, confluente, determinante, regular...
+
+___
+# Palabras Clave
+Signatura, pre-regular, con sentido, ambiguo, especificación, terminante, confluente, semántica laxa, semántica inicial
+
+<u>Pre-Regular</u>: Cuando no hay duda del resultado, es decir, no haya "ambigüedad". En caso de ambigüedad el resultado será el tipo más pequeño. Es no pre-regular cuando los dos posibles resultados están al mismo nivel.
+
+<u>Confluente</u>: Todo término t, si se puede reescribir de dos formas distintas, tarde o temprano llegamos al mismo sitio.
+![[Pasted image 20230927162751.png]]
+
+<u>Terminante</u>: Cuando no hay secuencia infinita de pasos de reescritura.
+
+<u>Semántica inicial</u>: Nos permite construir otra álgebra.
+
+<u>Semántica laxa</u>: Todas las álgebras que satisfacen todas las ecuaciones en E.

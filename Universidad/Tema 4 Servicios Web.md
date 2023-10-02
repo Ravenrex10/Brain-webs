@@ -52,3 +52,8 @@ Peticiones:
 - PUT
 - PATCH
 - DELETE
+
+### Resumen
+La web es el universo de información accesible globalmente
+Interfaz uniforme para acceso a los servicios
+No existe una descripción formal del servicio
