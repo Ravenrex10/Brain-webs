@@ -16,3 +16,13 @@
 - Kanban
 - Lean
 - Scrum
+
+### Scrum
+- El equipo avanza conjuntamente
+- Decisión y al unísono
+- Cambios de requisitos y priorización del cliente
+
+- Constante comunicación
+- Equipos autogestionados
+- Desarrollo en sprints
+Terminado-terminado: Definirlo al principio del proyecto (por ejemplo, está implementado, pasa todas las pruebas y tiene el manual de usuario)
