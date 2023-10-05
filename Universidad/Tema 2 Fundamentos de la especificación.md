@@ -98,9 +98,62 @@ subsorts A < BC < D
 TE(X)s' = Álgebra de términos de la signatura x en algo de s
 
 
+### La lógica de reescritura (LR)
+Objetivo: Eliminar la simetría y con ella la interpretación ecuacional de las reglas
+- Una signatura LR es una especificación ecuacional que hace explícito el conjunto de axiomas E para enfatizar el hecho de que la reescritura ocurrirá sobre clases de equivalencia módulo E.
+#### Los conejitos saltarines
+Podemos modelar el problema formalmente y hacer que Maude lo resuelva por nosotros
 
+```C
+//declaracion de variables
+sorts Rabbit Board
+subsort Rabbit < Board
+ValidBoard < Board
+op _ _ : Board Board -> Board [assoc]
+ops x o f : -> Rabbit
+
+//comprueba que una tabla sea valida
+rmb B : ValidBoard
+	if whites(B) = 3
+	and blacks(B) = 3
+	and frees(B) = 3
+
+//operaciones para el movimiento
+rl [xAdvances] : x free => free x
+rl [xJumps] : x o free => free o x
+rl [oAdvances] : free o => o free
+rl [oJumps] : free x o => o x free
+
+//constructor del tablero
+protecting NAT
+op initial : Nat -> Board
+var N : Nat
+eq initial(0) = free
+eq initial(s N) = x initial(N) o
+
+```
+
+
+#### El juego de las jarras
+```C
+sort Basin .
+op basin : Nat Nat -> Basin [ctor] .
+
+sort BasinSet .
+subsort Basin < BasinSet .
+op _ _ : BasinSet BasinSet -> BasinSet [assoc comm] .
+...
+```
+___ 
 # Ejercicio
 - comprobar que sea terminante el BOOLEAN de las diapositivas. Si es creciente, confluente, determinante, regular...
+
+![[Pasted image 20231003161146.png]]
+
+Terminante: 
+
+
+
 
 ___
 # Palabras Clave

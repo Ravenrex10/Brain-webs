@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "57eb1986800403df",
+            "id": "a24c3defdb244a7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 14 Gestión Ágil de Proyectos.md",
+                "file": "Tema 3 Desarrollo de Sistemas empotrados.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 14 Gestión Ágil de Proyectos.md",
+                "file": "Tema 3 Desarrollo de Sistemas empotrados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 14 Gestión Ágil de Proyectos.md",
+                "file": "Tema 3 Desarrollo de Sistemas empotrados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 14 Gestión Ágil de Proyectos.md"
+                "file": "Tema 3 Desarrollo de Sistemas empotrados.md"
               }
             }
           }
@@ -157,23 +157,28 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "57eb1986800403df",
+  "active": "a24c3defdb244a7b",
   "lastOpenFiles": [
-    "3D Printing Ideas.md",
-    "Tema 14 Gestión Ágil de Proyectos.md",
-    "Universidad/Gestión de Proyectos.md",
+    "Universidad/Sw. sistemas empotrados y dispositivos móviles.md",
+    "Tema 3 Desarrollo de Sistemas empotrados.md",
     "Universidad/Universidad.md",
-    "Tema 6 Estructura PMBOK.md",
+    "Universidad/Tema 2 Virtualización de los recursos HW.md",
+    "3D Printing Ideas.md",
+    "Arquitecturas Virtuales.md",
+    "Universidad/Tema 1 Introducción a la virtualización.md",
+    "Universidad/Tema 2 Fundamentos de la especificación.md",
+    "Universidad/Métodos formales.md",
+    "Universidad/Gestión de Proyectos.md",
+    "Images/Pasted image 20231003161146.png",
+    "Universidad/Tema 14 Gestión Ágil de Proyectos.md",
+    "Universidad/Tema 6 Estructura PMBOK.md",
     "Universidad/Tema 5 Buenas prácticas en la gestión.md",
     "Images/Pasted image 20230925155832.png",
     "Universidad/Tema 2 Arduino.md",
-    "Universidad/Sw. sistemas empotrados y dispositivos móviles.md",
     "Tema 5_3 FreeRTOS.md",
     "Universidad/Tema 4 Metodologías de gestión de proyectos.md",
     "Universidad/Tema 3 Objetivos de  un proyecto.md",
-    "Universidad/Tema 2 Fundamentos de la especificación.md",
     "Images/Pasted image 20230927162751.png",
-    "Universidad/Métodos formales.md",
     "Universidad/Tema 4 Servicios Web.md",
     "Trabajo de Fin de Grado.md",
     "Universidad/Ingeniería Web.md",
@@ -190,11 +195,6 @@
     "horario/2023-10-20 Examen Ingeniería Web T1 y T2.md",
     "Universidad/Tema 1 Niveles de Gestión.md",
     "horario/2023-09-22 Elegir Grupo Ingeniería Web.md",
-    "Universidad/Ejercicios Arduino.md",
-    "Images/Pasted image 20230921174337.png",
-    "Dar cartas random al usuario.md",
-    "Universidad/View Components.md",
-    "Universidad/View Containers.md",
     "Images",
     "Untitled.canvas",
     "Universidad",
