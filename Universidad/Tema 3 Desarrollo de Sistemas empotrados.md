@@ -12,7 +12,6 @@
 ```C
 #include <pthread.h>
 int pthread_create(pthread_t *thread, const pthread_attr_t *attr, void *(*start_routine) (void*), void *arg); //Primer parametro es un id, el segundo los atributos (nosotros los dejaremos en null), el tercero contiene el nombre de la funcion que he implementado y hará de hebra.
-
 //EJEMPLO
 rc = pthread_create(&threads[t], NULL, PrintHello, & id[t]);
 

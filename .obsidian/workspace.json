@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 3 Desarrollo de Sistemas empotrados.md",
+                "file": "Tema 3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 3 Desarrollo de Sistemas empotrados.md",
+                "file": "Tema 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 3 Desarrollo de Sistemas empotrados.md",
+                "file": "Tema 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 3 Desarrollo de Sistemas empotrados.md"
+                "file": "Tema 3.md"
               }
             }
           }
@@ -159,15 +159,17 @@
   },
   "active": "a24c3defdb244a7b",
   "lastOpenFiles": [
-    "Universidad/Sw. sistemas empotrados y dispositivos móviles.md",
-    "Tema 3 Desarrollo de Sistemas empotrados.md",
-    "Universidad/Universidad.md",
-    "Universidad/Tema 2 Virtualización de los recursos HW.md",
-    "3D Printing Ideas.md",
-    "Arquitecturas Virtuales.md",
-    "Universidad/Tema 1 Introducción a la virtualización.md",
-    "Universidad/Tema 2 Fundamentos de la especificación.md",
     "Universidad/Métodos formales.md",
+    "Tema 3.md",
+    "Universidad/Universidad.md",
+    "3D Printing Ideas.md",
+    "Universidad/Arquitecturas Virtuales.md",
+    "Trabajo de Fin de Grado.md",
+    "Universidad/Tema 2 Virtualización de los recursos HW.md",
+    "Universidad/Tema 2 Fundamentos de la especificación.md",
+    "Universidad/Tema 3 Desarrollo de Sistemas empotrados.md",
+    "Universidad/Sw. sistemas empotrados y dispositivos móviles.md",
+    "Universidad/Tema 1 Introducción a la virtualización.md",
     "Universidad/Gestión de Proyectos.md",
     "Images/Pasted image 20231003161146.png",
     "Universidad/Tema 14 Gestión Ágil de Proyectos.md",
@@ -180,7 +182,6 @@
     "Universidad/Tema 3 Objetivos de  un proyecto.md",
     "Images/Pasted image 20230927162751.png",
     "Universidad/Tema 4 Servicios Web.md",
-    "Trabajo de Fin de Grado.md",
     "Universidad/Ingeniería Web.md",
     "Universidad/Tema 2  Modelado y Arquitectura Web.md",
     "Images/Pasted image 20230922185753.png",
@@ -194,7 +195,6 @@
     "Universidad/Inteligencia Artificial Para Juegos.md",
     "horario/2023-10-20 Examen Ingeniería Web T1 y T2.md",
     "Universidad/Tema 1 Niveles de Gestión.md",
-    "horario/2023-09-22 Elegir Grupo Ingeniería Web.md",
     "Images",
     "Untitled.canvas",
     "Universidad",

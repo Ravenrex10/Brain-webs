@@ -1,4 +1,4 @@
-<u>Objetivo</u>: Repasar y entender qué es la lógica.
+o l <u>Objetivo</u>: Repasar y entender qué es la lógica.
 
 ### Ventaja de los lenguajes declarativos
 - Basados en lógica computacionalmente interpretable.
