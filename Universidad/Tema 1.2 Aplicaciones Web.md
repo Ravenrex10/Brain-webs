@@ -34,6 +34,8 @@ Permiten una interacción más compleja
 - Conectividad con base de datos y consultas estructurales
 - Manejo eficiente y consistente del incremento de contenido
 - Mayor complejidad
+<u>Ejemplos</u>:
+	- Tiendas online
 
 
 ### Webs basadas en flujos de trabajo

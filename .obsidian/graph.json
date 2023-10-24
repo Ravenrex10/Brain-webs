@@ -6,17 +6,25 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "path:Universidad  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "nodeSizeMultiplier": 1.5546875,
+  "lineSizeMultiplier": 1.52916666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.421875,
+  "repelStrength": 8.95833333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.4032325486823673,
+  "linkDistance": 125,
+  "scale": 0.5312484188792655,
   "close": false
 }
