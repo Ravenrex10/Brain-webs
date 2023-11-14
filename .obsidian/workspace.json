@@ -16,19 +16,20 @@
             }
           },
           {
-            "id": "a24c3defdb244a7b",
+            "id": "ced9f9e950ae7e43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Tema 2 Virtualización de los recursos HW.md",
+                "file": "Universidad/Tema 4 Compartición de recursos entre MVs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidad/Tema 2 Virtualización de los recursos HW.md",
+                "file": "Universidad/Tema 4 Compartición de recursos entre MVs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universidad/Tema 2 Virtualización de los recursos HW.md",
+                "file": "Universidad/Tema 4 Compartición de recursos entre MVs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidad/Tema 2 Virtualización de los recursos HW.md"
+                "file": "Universidad/Tema 4 Compartición de recursos entre MVs.md"
               }
             }
           }
@@ -156,21 +157,29 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "22c9507fb15f9195",
+  "active": "ced9f9e950ae7e43",
   "lastOpenFiles": [
-    "horario/2023-11-21 Examen Arq Virtuales.md",
+    "horario/2023-11-13 Examen Gestión de Proyectos.md",
+    "Universidad/Tema 4 Compartición de recursos entre MVs.md",
     "Universidad/Arquitecturas Virtuales.md",
     "Universidad/Universidad.md",
-    "Universidad/Tema 3.md",
-    "Universidad/Métodos formales.md",
+    "Trabajo de Fin de Grado.md",
+    "Misc/Dar cartas random al usuario.md",
+    "Misc",
+    "Universidad/Planificacion.md",
     "Universidad/Sw. sistemas empotrados y dispositivos móviles.md",
+    "Universidad/Tema 3 Virtualización en el Intel x86.md",
+    "horario/2023-11-17 Examen ing web.md",
+    "horario/2023-11-22 Examen POSIX (empotrados).md",
+    "Universidad/Tema 3.md",
+    "Universidad/Tema 2 Virtualización de los recursos HW.md",
+    "horario/2023-11-21 Examen Arq Virtuales.md",
+    "Universidad/Métodos formales.md",
     "Universidad/Tema 3 Desarrollo de Sistemas empotrados.md",
     "Universidad/Tema 1.2 Aplicaciones Web.md",
     "Universidad/Ingeniería Web.md",
     "Universidad/Tema 1 Fundamentos de la Ingeniería Web.md",
-    "3D Printing Ideas.md",
-    "Trabajo de Fin de Grado.md",
-    "Universidad/Tema 2 Virtualización de los recursos HW.md",
+    "Misc/3D Printing Ideas.md",
     "Universidad/Tema 2 Fundamentos de la especificación.md",
     "Universidad/Tema 1 Introducción a la virtualización.md",
     "Universidad/Gestión de Proyectos.md",
@@ -179,16 +188,9 @@
     "Universidad/Tema 6 Estructura PMBOK.md",
     "Universidad/Tema 5 Buenas prácticas en la gestión.md",
     "Images/Pasted image 20230925155832.png",
-    "Universidad/Tema 2 Arduino.md",
-    "Tema 5_3 FreeRTOS.md",
-    "Universidad/Tema 4 Metodologías de gestión de proyectos.md",
-    "Universidad/Tema 3 Objetivos de  un proyecto.md",
     "Images/Pasted image 20230927162751.png",
-    "Universidad/Tema 4 Servicios Web.md",
-    "Universidad/Tema 2  Modelado y Arquitectura Web.md",
     "Images/Pasted image 20230922185753.png",
     "Images/Pasted image 20230922185656.png",
-    "Universidad/Tema 2 Proyecto.md",
     "Images/Pasted image 20230922185404.png",
     "Images/Pasted image 20230922185416.png",
     "Images/Pasted image 20230922185344.png",

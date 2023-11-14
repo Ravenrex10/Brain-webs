@@ -1,0 +1,4 @@
+Ri = Ci + Sumatorio|Ri/Tj|*Cj
+
+Interferencia = |Ri/Tj|
+

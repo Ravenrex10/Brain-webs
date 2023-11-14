@@ -44,3 +44,4 @@ Se crea una LAN virtual, hay varias formas:
 - Host-only: Simula un switch virtual para conectar MVs. No hay salida al exterior.
 - Bridged: Simula un bridge que conecta la LAN virtual con la LAN externa. Se pone la tarjeta red en modo promiscuo para poder enviar cualquier paquete. En tarjetas WiFi se llama modo monitor.
 - NAT: Hay un router ficticio que aplica la traducción NAT a los paquetes de la máquina virtual y envía esos paquetes traducidos por la tarjeta red. Pero no me puede llegar cosas de fuera porque no se puede "destraducir".
+
