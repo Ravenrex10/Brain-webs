@@ -36,9 +36,39 @@ La virtualización requiere espacio físico de RAM y MMU del procesador.
 Dos formas de implementar:
 - By pass: Directamente conectarlo a la máquina virtual.
 - Ficheros: del sistema de archivos del hipervisor.
-##### Físicos
+###### Físicos
 - Menos retardo
 - Uso: Aplicaciones críticas
-##### Sobre ficheros
+###### Sobre ficheros
 - Overhead por las estructuras de datos del sistema de ficheros
 - Es posible no asignar el espacio libre del volumen. Ahorra espacio, pero puede provocar inanición por falta de disco real y fragmentación del fichero que simula el disco.
+
+### Snapshots
+Disminuyen la eficiencia del disco
+
+### La red
+Requiere simular
+- Interfaces
+- LANs virtuales
+El paso de paquetes entre máquinas virtuales en el mismo switch virtual se hace mediante buffers de memoria del hipervisor.
+
+
+# Eficiencia de la E/S
+- Throughput: velocidad máxima de transferencia en butes/s.
+- Latencia: Tiempo mínimo que tarda en transferirse el primer byte.
+- tps: transacciones por segundo máximas (del mínimo tamaño).
+
+tps = 1/(Linicial + Ttransferencia)
+th = B * tps
+
+La virtualización afecta al rendimiento:
+- Aumenta la latencia
+- Se puede reducir con el uso de buffering en el sistema real
+- Respecto al throughput
+		- Una buena simulación lo mantiene al 100% del original
+		- Puede degradarse por las copias entre buffers reales y virtuales
+
+Hay que intentar usar bloques grandes. Si no usar bloques pequeños con E/S asíncrona
+¿Mejorar tps o throughput?
+tps: muchos clientes con datos pequeños
+througput: pocos clientes con datos grandes

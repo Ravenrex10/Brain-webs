@@ -1,8 +1,8 @@
 
 email: julian@uma.es
 email: eladio@uma.es
-3.0.7
-
+Teoría: 3.0.7
+Laboratorio: 2.1.8
 ___
 [[Tema 1 Introducción a la virtualización]]
 [[Tema 2 Virtualización de los recursos HW]]
