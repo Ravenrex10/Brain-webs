@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Universidad  ",
@@ -13,9 +13,23 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "path:horario  ",
+      "color": {
+        "a": 1,
+        "rgb": 5424352
+      }
+    },
+    {
+      "query": "path:Misc  ",
+      "color": {
+        "a": 1,
+        "rgb": 14727762
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.5546875,
@@ -25,6 +39,6 @@
   "repelStrength": 8.95833333333333,
   "linkStrength": 1,
   "linkDistance": 125,
-  "scale": 0.4872271967415667,
-  "close": false
+  "scale": 0.47423336118833603,
+  "close": true
 }
