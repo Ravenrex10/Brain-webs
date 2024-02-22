@@ -19,12 +19,30 @@
             "id": "ced9f9e950ae7e43",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Universidad/Métodos formales.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9cecc9b6b07c51b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 2. Protección de Datos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tema 2. Protección de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tema 2. Protección de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tema 2. Protección de Datos.md"
+              }
             }
           }
         ]
@@ -148,10 +170,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ced9f9e950ae7e43",
+  "active": "e9cecc9b6b07c51b",
   "lastOpenFiles": [
-    "Universidad/Métodos formales.md",
+    "Proyectos y Legislación.md",
     "Universidad/Universidad.md",
+    "Tema 2. Protección de Datos.md",
+    "Universidad/Arquitecturas Virtuales.md",
+    "Universidad/Métodos formales.md",
+    "Universidad/Tema 3.md",
+    "Universidad/Ejercicios Arduino.md",
     "Universidad/Ejercicio Planificacion.md",
     "Images/Pasted image 20231116181600.png",
     "Images/Pasted image 20231116181449.png",
@@ -159,7 +186,6 @@
     "Universidad/Planificacion.md",
     "Universidad/Sw. sistemas empotrados y dispositivos móviles.md",
     "Universidad/Tema 4 Compartición de recursos entre MVs.md",
-    "Universidad/Arquitecturas Virtuales.md",
     "Universidad/Tema 3 Virtualización en el Intel x86.md",
     "Universidad/Tema 4 Servicios Web.md",
     "Universidad/Tema 5 Buenas prácticas en la gestión.md",
@@ -173,12 +199,9 @@
     "Universidad/Gestión de Proyectos.md",
     "Universidad/Flujo de interacción.md",
     "Universidad/Events.md",
-    "Universidad/Ejercicios Arduino.md",
     "horario/2023-11-13 Examen Gestión de Proyectos.md",
     "Trabajo de Fin de Grado.md",
-    "Misc/Dar cartas random al usuario.md",
     "Misc",
-    "horario/2023-11-17 Examen ing web.md",
     "Images/Pasted image 20231003161146.png",
     "Images/Pasted image 20230925155832.png",
     "Images/Pasted image 20230927162751.png",
