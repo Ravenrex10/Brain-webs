@@ -1,3 +1,5 @@
+
+# 1 Conceptos Generales
 La protección de datos regula el conflicto (...)
 
 Privacidad aborda más que la intimidad.
@@ -45,3 +47,59 @@ El RGPD se aplica siempre que el tratamiento sea automatizado o parcialmente aut
 Existen 2 excepciones de estos datos en el RGPD:
 - Actividades domésticas (direcciones, emails, teléfonos que tengo en el móvil)
 - Policía
+
+## Roles en el tratamiento de Datos (EXAMEN)
+- Responsable: Determina los fines y medios del tratamiento
+- Interesado: Sus datos son objeto de tratamiento
+- Encargado: Trata datos personales por cuenta del responsable
+
+#### Cuestión 1
+**La Universidad de Villalquite tiene como Rector a don Numerio
+Negidio. Dentro de la Universidad existe un Servicio de Inform´atica, responsable
+entre otras cosas del procesamiento de los datos de matr´ıcula de los alumnos.
+La Directora del Servicio es doña Lucía Ticia.
+Indicar, caso de que existan, qui´enes son (i) el o los interesados en el trata-
+miento de los datos de matrícula; (ii) el o los responsables del tratamiento; (iii)
+el o los encargados del tratamiento.**
+
+Responsable: Universidad
+Interesado: Estudiantes
+Encargado: No hay porque el encargado debe ser externo a la universiad
+
+### Cuestión 2
+**Tras acabar sus estudios en la Universidad de Villalquite, don Es-
+tico Estíquez trabaja como asesor fiscal autónomo. Uno de sus clientes es la
+empresa "Kkfashion, Escuela de modelos", que le tiene encomendada la gestión
+de su contabilidad (facturas, clientes, proveedores, alumnos, . . . )
+Indicar, caso de que existan, quiénes son (i) el o los interesados en el trata-
+miento de los datos de contabilidad; (ii) el o los responsables del tratamiento;
+(iii) el o los encargados del tratamiento.**
+
+Interesado: Clientes, alumnos de kkfashion, proveedores que sean personas físicas
+Responsable: Kkfashion
+Encargado: Estico
+
+# 3 Principios del tratamiento
+## Principio de limitación de la finalidad de los datos
+Los datos serán tratados con fines determinados, explícitos y legítimos.
+
+## Principio de minimización de datos
+Los datos serán los justos y necesarios
+
+## Principio de exactitud de datos
+Deben ser exactos y actualizados
+
+## Principio de limitación del plazo de conservación de los datos
+No se guardarán los datos durante más tiempo del necesario
+
+## Principio de integridad y confidencialidad
+Seguridad de los datos
+
+## Principio de legitimación del tratamiento
+
+## Princpio de responsabilidad proactiva
+Habrá un responsable de cumplir los principios anteriores
+
+## Bases de legitimación enunciadas en el RGPD
+- Consentimiento
+- 
