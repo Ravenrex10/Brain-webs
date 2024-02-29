@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "ced9f9e950ae7e43",
+            "id": "e9cecc9b6b07c51b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Métodos formales.md",
+                "file": "TFG/Información.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -29,12 +29,12 @@
             }
           },
           {
-            "id": "e9cecc9b6b07c51b",
+            "id": "fa01fdc482d0126d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 2. Protección de Datos.md",
+                "file": "Universidad/Tema 2. Protección de Datos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 2. Protección de Datos.md",
+                "file": "Universidad/Tema 2. Protección de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 2. Protección de Datos.md",
+                "file": "Universidad/Tema 2. Protección de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 2. Protección de Datos.md"
+                "file": "Universidad/Tema 2. Protección de Datos.md"
               }
             }
           }
@@ -170,16 +170,20 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e9cecc9b6b07c51b",
+  "active": "fa01fdc482d0126d",
   "lastOpenFiles": [
-    "Proyectos y Legislación.md",
+    "TFG/Información.md",
+    "Universidad/Tema 2. Protección de Datos.md",
+    "Universidad/Proyectos y Legislación.md",
     "Universidad/Universidad.md",
+    "Universidad/Tema 2 Fundamentos de la especificación.md",
+    "Universidad/Métodos formales.md",
+    "TFG/GDD.md",
+    "TFG",
     "Universidad/Tema 2 Búsqueda en árbol.md",
     "Universidad/Inteligencia Artificial Para Juegos.md",
     "Universidad/Ingeniería Web.md",
-    "Tema 2. Protección de Datos.md",
     "Universidad/Arquitecturas Virtuales.md",
-    "Universidad/Métodos formales.md",
     "Universidad/Tema 3.md",
     "Universidad/Ejercicios Arduino.md",
     "Universidad/Ejercicio Planificacion.md",
@@ -197,10 +201,6 @@
     "Universidad/Proyectos.md",
     "Universidad/Tema 2 Proyecto.md",
     "Universidad/Lógica ecuacional.md",
-    "Universidad/Gestión de Proyectos.md",
-    "Universidad/Flujo de interacción.md",
-    "Universidad/Events.md",
-    "horario/2023-11-13 Examen Gestión de Proyectos.md",
     "Misc",
     "Images/Pasted image 20231003161146.png",
     "Images/Pasted image 20230925155832.png",

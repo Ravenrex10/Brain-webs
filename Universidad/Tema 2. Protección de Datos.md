@@ -101,5 +101,36 @@ Seguridad de los datos
 Habrá un responsable de cumplir los principios anteriores
 
 ## Bases de legitimación enunciadas en el RGPD
-- Consentimiento
-- 
+- Consentimiento: Exige una declaración o acción afirmativa (>=14 años)
+- Interés legítimo
+- Necesario para satisfacerlo
+- No prevalezcan los derechos y libertades del interesado
+
+# 4 Derechos del interesado
+- Acceso
+- Rectificación
+- Supresión
+- Oposición
+- Limitación
+- Portabilidad
+- Olvido
+#### Derecho de acceso
+Tendrá derecho de acceder a sus datos personales.
+#### Derecho de rectificación
+Si los datos no son exactos, tiene derecho a que se rectifiquen.
+#### Derecho de supresión
+Tiene derecho a que se supriman cuando:
+- Los datos ya no son necesarios para los fines que se recogieron
+- El interesado retira el consentimiento
+- Los datos han sido tratados ilícitamente.
+#### Derecho de oposición
+El interesado puede oponerse al tratamiento de sus datos salvo que se acredite motivos legítimos imperiosos.
+#### Derecho de limitación
+Se prohíbe que se traten los datos mientras no se puedan eliminar
+#### Derecho de portabilidad
+Se transmiten del anterior responsable al nuevo responsable de manera estructurada.
+#### Derecho al olvido
+Derecho a que el interesado se oponga a que sean indexados por computadores
+
+## Cómo puede el interesado ejercer estos derechos
+Hablando con el responsable. También se puede acudir a los tribunales.

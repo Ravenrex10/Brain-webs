@@ -14,7 +14,7 @@ Clase: 3.0.8
 
 [[Proyectos y Legislación]]
 
-[[Trabajo de Fin de Grado]]
+[[Información]]
 
 ___
 [[Inteligencia Artificial Para Juegos]]
