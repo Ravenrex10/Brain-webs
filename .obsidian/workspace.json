@@ -21,19 +21,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TFG/Información.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa01fdc482d0126d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Universidad/Tema 2. Protección de Datos.md",
                 "mode": "source",
                 "backlinks": false,
@@ -42,7 +29,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,15 +157,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fa01fdc482d0126d",
+  "active": "e9cecc9b6b07c51b",
   "lastOpenFiles": [
-    "TFG/Información.md",
-    "Universidad/Tema 2. Protección de Datos.md",
     "Universidad/Proyectos y Legislación.md",
+    "Universidad/Tema 2. Protección de Datos.md",
     "Universidad/Universidad.md",
+    "TFG/Información.md",
+    "TFG/GDD.md",
+    "Tema 5.md",
     "Universidad/Tema 2 Fundamentos de la especificación.md",
     "Universidad/Métodos formales.md",
-    "TFG/GDD.md",
     "TFG",
     "Universidad/Tema 2 Búsqueda en árbol.md",
     "Universidad/Inteligencia Artificial Para Juegos.md",

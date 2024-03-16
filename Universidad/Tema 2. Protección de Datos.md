@@ -134,3 +134,42 @@ Derecho a que el interesado se oponga a que sean indexados por computadores
 
 ## Cómo puede el interesado ejercer estos derechos
 Hablando con el responsable. También se puede acudir a los tribunales.
+
+# 5 Deberes del Responsable
+### Información
+1. 
+- Identidad y datos de contacto del responsable o su representante
+- Los datos de contacto del delegado de protección de datos
+- Los fines del tratamiento a que se destinan los datos personales y la base jurídica del tratamiento
+- Los destinatarios o las categorías de destinatarios de los datos personales
+- La intención del responsable de transferir datos personales a un tercer país u organización internacional
+2. 
+- El plazo durante el cual se conservarán los datos personales
+- La existencia del derecho a solicitar al responsable el acceso a los datos personales
+- La existencia del derecho a retirar el consentimiento
+- El derecho a presentar una reclamación ante una autoridad de control
+- Si la comunicación de datos personales es un requisito legal o un requisito necesario
+- La existencia de decisiones automatizadas
+
+##### Cómo se facilita la información
+A través de email, pero en el formulario donde se piden los datos debe aparecer identidad del responsable, fines y derechos.
+### Registro de actividades
+#### EXAMEN
+Si la comunicación tiene un coste elevado/imposible no es necesario proporcionar la información. Por ejemplo cuando se obtienen 1000 usuarios de una base de datos.
+
+Se debe siempre llevar un registro de actividades del tratamiento. En la ley pone que si es ocasional no hace falta, pero siempre es no ocasional.
+
+Columna izquierda de lo que debe aparecer en el registro en la página de la AEPD
+
+No hay que notificar de ningún tratamiento de datos.
+### Notificación Violaciones Seguridad
+Si hay una brecha o pérdida debo decírselo a la autoridad de control.
+### Contrato de Encargo
+
+### Nombramiento DPD
+### Seguridad3
+# 6 Seguridad, análisis de riesgos y evaluación de impacto
+
+
+
+EXAMEN -> PAGINA 33 DE GESTION DE RIESGOS (Esquema)
