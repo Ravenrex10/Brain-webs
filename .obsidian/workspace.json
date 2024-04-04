@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Tema 2. Protección de Datos.md",
+                "file": "Tema 3. Propiedad Intelecutal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universidad/Tema 2. Protección de Datos.md",
+                "file": "Tema 3. Propiedad Intelecutal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universidad/Tema 2. Protección de Datos.md",
+                "file": "Tema 3. Propiedad Intelecutal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universidad/Tema 2. Protección de Datos.md"
+                "file": "Tema 3. Propiedad Intelecutal.md"
               }
             }
           }
@@ -160,8 +160,9 @@
   "active": "e9cecc9b6b07c51b",
   "lastOpenFiles": [
     "Universidad/Proyectos y Legislación.md",
-    "Universidad/Tema 2. Protección de Datos.md",
+    "Tema 3. Propiedad Intelecutal.md",
     "Universidad/Universidad.md",
+    "Universidad/Tema 2. Protección de Datos.md",
     "TFG/Información.md",
     "TFG/GDD.md",
     "Tema 5.md",
@@ -188,7 +189,6 @@
     "Universidad/Tema 1 Niveles de Gestión.md",
     "Universidad/Proyectos.md",
     "Universidad/Tema 2 Proyecto.md",
-    "Universidad/Lógica ecuacional.md",
     "Misc",
     "Images/Pasted image 20231003161146.png",
     "Images/Pasted image 20230925155832.png",
