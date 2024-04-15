@@ -2,3 +2,18 @@ Propiedad intelecutal: Conjunto de derechos que sobre una obra literaria, artís
 
 Es regulada por la Ley de Propiedad Intelecutal (LPI)
 
+- Derechos de autor
+- Secreto empresarial
+- Patente
+
+## Derechos de autor
+uwu
+## Secreto Empresarial
+òwó
+## Patente
+Acuerdo entre el inventor y el estado donde el inventor tiene derecho único y exclusivo a producir y explotar el producto.
+
+Normas:
+- Ley de Patentes
+- Convenio de la Patente Europea
+

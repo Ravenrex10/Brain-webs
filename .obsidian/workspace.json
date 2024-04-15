@@ -27,9 +27,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b9e026ea34d0218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema 3. Propiedad Intelecutal.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,11 +170,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "e9cecc9b6b07c51b",
+  "active": "3b9e026ea34d0218",
   "lastOpenFiles": [
     "Universidad/Proyectos y Legislación.md",
-    "Tema 3. Propiedad Intelecutal.md",
     "Universidad/Universidad.md",
+    "Tema 3. Propiedad Intelecutal.md",
     "Universidad/Tema 2. Protección de Datos.md",
     "TFG/Información.md",
     "TFG/GDD.md",
