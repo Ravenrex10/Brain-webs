@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tema 3. Propiedad Intelecutal.md",
+                "file": "Tema 4. Derecho de Internet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tema 3. Propiedad Intelecutal.md",
+                "file": "Tema 4. Derecho de Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tema 3. Propiedad Intelecutal.md",
+                "file": "Tema 4. Derecho de Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tema 3. Propiedad Intelecutal.md"
+                "file": "Tema 4. Derecho de Internet.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   "active": "3b9e026ea34d0218",
   "lastOpenFiles": [
     "Universidad/Proyectos y Legislación.md",
+    "Tema 4. Derecho de Internet.md",
     "Universidad/Universidad.md",
     "Tema 3. Propiedad Intelecutal.md",
     "Universidad/Tema 2. Protección de Datos.md",
@@ -201,7 +202,6 @@
     "Universidad/Tema 14 Gestión Ágil de Proyectos.md",
     "Universidad/Tema 1 Niveles de Gestión.md",
     "Universidad/Proyectos.md",
-    "Universidad/Tema 2 Proyecto.md",
     "Misc",
     "Images/Pasted image 20231003161146.png",
     "Images/Pasted image 20230925155832.png",
